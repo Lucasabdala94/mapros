@@ -1,0 +1,17 @@
+a.active {
+    color: rgb(139, 23, 23);
+}
+
+nav>a {
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+nav>a.active {
+    text-decoration: underline;
+}
+
+nav {
+    border-bottom: 1px solid #999;
+    padding: 20px 0px;
+}
